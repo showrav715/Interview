@@ -8,7 +8,7 @@
 
 ## Installation
 
--   `git clone git@github.com:HijenHEK/laravel-vue-sanctum-spa.git --branch v1.0.1 my-spa](https://github.com/showrav715/interview.git` 
+-   `git clone https://github.com/showrav715/interview.git` 
 -   `cd interview`
 -   Edit `.env` and set your database connection details 
 -   `php artisan key:generate`
